@@ -1,8 +1,5 @@
 # 使用 TypeScript 进行开发
 
-
-# 使用 TypeScript 进行开发
-
 ## 1、项目搭建
 
 - 使用 TypeScript 模板创建新项目
